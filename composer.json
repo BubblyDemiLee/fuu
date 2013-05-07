@@ -1,0 +1,6 @@
+{
+	"name" : "BubblyDemiLee/fuu",
+		"require": {
+			"shrikeh/teapot": "dev-master"
+		}
+}
